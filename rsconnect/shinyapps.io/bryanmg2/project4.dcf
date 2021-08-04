@@ -1,0 +1,12 @@
+name: project4
+title: project4
+username:
+account: bryanmg2
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3313037
+bundleId: 3973171
+url: https://bryanmg2.shinyapps.io/project4/
+when: 1607645379.17587
+asMultiple: FALSE
+asStatic: FALSE
